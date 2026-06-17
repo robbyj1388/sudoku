@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.workingDirectories": ["./src"],
+  "eslint.useFlatConfig": true,
+  "editor.codeActionsOnSave": {
+    "source.removeUnusedImports": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
