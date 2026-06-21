@@ -22,20 +22,14 @@ Make sure you have Node.js (v20+) and Yarn installed.
 
 #### Mac
 
-```
-```
 ```bash
 brew install node@20
 brew link node@20
 npm install -g yarn
 ```
-```
-```
 
 #### Linux
 
-```
-```
 ```bash
 # Install Node.js 20
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
@@ -51,8 +45,6 @@ corepack prepare yarn@stable --activate
 node --version
 npm --version
 yarn --version
-```
-```
 ```
 
 ## Installation
